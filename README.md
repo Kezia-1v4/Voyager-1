@@ -5,7 +5,9 @@
 This repository is for our branching and merge conflict activity.
 
 ##Members
-| a | b |
+
+| [keziah]| [Leica] |
+
 ## Contact
 Ask us questions through the Issues tab.
 
