@@ -4,7 +4,7 @@
 ## About
 This repository is for our branching and merge conflict activity.
 
-##Members
+## Members
 
 | [keziah]| [Leica] |
 
