@@ -6,7 +6,7 @@ This repository is for our branching and merge conflict activity.
 ## Members
 | Keziah | Leica |
 | student a | student b |
-| Kezia-1v4 | LeicaCas |
+| [Kezia-1v4](https://github.com/Kezia-1v4) | LeicaCas |
 
 ## Contact
 Ask us questions through the Issues tab.
