@@ -14,7 +14,7 @@ Ask us questions through the Issues tab.
 
 Voyager 1 is a light day away!
 remember that
-This is from Eleanor
+Huss huss huss
 
 ## Learning Goals
 
