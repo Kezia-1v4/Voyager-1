@@ -3,11 +3,6 @@
 # Therese and Eleanor
 ## About
 This repository is for our branching and merge conflict activity.
-
-## Members
-
-| [keziah]| [Leica] |
-
 ## Contact
 Ask us questions through the Issues tab.
 
